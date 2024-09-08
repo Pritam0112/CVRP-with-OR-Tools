@@ -1,0 +1,75 @@
+{
+    "objective_value": 100184,
+    "routes": [
+        {
+            "vehicle_id": 0,
+            "route": [
+                "loc0",
+                "loc5",
+                "loc3",
+                "loc4",
+                "loc0"
+            ],
+            "route_distance": 28430,
+            "route_volume": 766,
+            "route_weight": 346
+        },
+        {
+            "vehicle_id": 1,
+            "route": [
+                "loc0",
+                "loc6",
+                "loc0"
+            ],
+            "route_distance": 48164,
+            "route_volume": 551,
+            "route_weight": 258
+        },
+        {
+            "vehicle_id": 2,
+            "route": [
+                "loc0",
+                "loc2",
+                "loc7",
+                "loc1",
+                "loc0"
+            ],
+            "route_distance": 23590,
+            "route_volume": 523,
+            "route_weight": 266
+        },
+        {
+            "vehicle_id": 3,
+            "route": [
+                "loc0",
+                "loc0"
+            ],
+            "route_distance": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        },
+        {
+            "vehicle_id": 4,
+            "route": [
+                "loc0",
+                "loc0"
+            ],
+            "route_distance": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        },
+        {
+            "vehicle_id": 5,
+            "route": [
+                "loc0",
+                "loc0"
+            ],
+            "route_distance": 0,
+            "route_volume": 0,
+            "route_weight": 0
+        }
+    ],
+    "total_distance": 100184,
+    "total_volume": 1840,
+    "total_weight": 870
+}
