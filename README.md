@@ -1,5 +1,4 @@
-# Capacitated Vehicle Routing Problem (CVRP) Solver
-
+# Capacitated Vehicle Routing Problem (CVRP)
 This project implements a Capacitated Vehicle Routing Problem (CVRP) solver using [Google OR-Tools](https://developers.google.com/optimization). The goal is to optimize delivery routes for a fleet of vehicles while respecting their weight and volume capacities.
 
 ## Table of Contents
